@@ -1,3 +1,11 @@
+# embedding-atlas
+
+> Embedding Atlas — interactive visualization for large embeddings. Proprietary BlackRoad integration.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # Embedding Atlas
 
 [![NPM Version](https://img.shields.io/npm/v/embedding-atlas)](https://www.npmjs.com/package/embedding-atlas)
